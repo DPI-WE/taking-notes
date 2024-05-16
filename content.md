@@ -23,7 +23,7 @@ Keeping notes offers several benefits:
 ### Step 1: Create a Notes Folder
 Create a `notes` folder inside your `Workspace` folder. This will be the designated location for all your notes.
 
-![](assets/taking-notes-1.png)
+![](/assets/taking-notes-1.png)
 
 ### Step 2: Using Markdown for Notes
 Create a New Markdown File Each Day. (`*.md`) Each morning, create a new Markdown file for your daily notes. This can include how you spend your time, meeting notes, important links, and your to-do list for the day.
